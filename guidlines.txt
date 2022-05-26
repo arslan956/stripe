@@ -1,0 +1,9 @@
+git --global username Arslan
+git --global user.email "marslaniqbal53@gmail.com"
+touch .gitignore
+git init
+git add.
+git commit -m "initial commit"
+git status
+git remote add origin //partciular key from the github ssh key
+git push origin master
